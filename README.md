@@ -2,7 +2,7 @@
 
 Aplicacion Presupuesto Basico
 
-**[Ver en vivo](https://bellmojica.github.io/Aplicaci-nRelojDigital.io/)**
+**[Ver en vivo](https://bellmojica.github.io/AplicacionPresupuesto.io/)**
 
 ---
 
