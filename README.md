@@ -44,7 +44,7 @@ Abre index.html en tu navegador
 
 ### 1. Edita tu información
 Abre `index.html` y cambia:
-- Relog Digital
+- AplicacionPresupuesto
 
 ### 2. Agrega tus proyectos
 En la sección de proyectos, añade:
