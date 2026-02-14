@@ -69,7 +69,7 @@ portfolio/
 │  └── fondo.png    
 └── js/
    ├── app.js
-   ├── Dtao.js
+   ├── Datao.js
    ├── Ingreso.js
    └── Egreso.js
 ```
